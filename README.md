@@ -1,16 +1,34 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio website built with React and Vite. It showcases my skills, projects, and provides a contact form for inquiries.
 
-Currently, two official plugins are available:
+## Features
+- **Responsive Design:** A clean, accessible UI built with semantic HTML and CSS.
+- **Project Showcase:** Reusable components to display a list of projects.
+- **Contact Form:** A fully functional semantic contact form relying on native browser validation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Getting Started
 
-## React Compiler
+Follow these steps to run the project locally on your machine.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your system.
 
-## Expanding the ESLint configuration
+### Installation & Setup
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Open your terminal and navigate to the project folder:
+   ```bash
+   cd Porfolio
+   ```
+
+2. Install all the required dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the local development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and navigate to the URL provided in the terminal (usually `http://localhost:5173`).
