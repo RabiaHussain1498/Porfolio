@@ -27,7 +27,7 @@ function Projects() {
         title="Portfolio Site"
         description="A personal portfolio built with React, showcasing my projects and skills."
         technologies={["React", "Vite", "JSX"]}
-        link="https://github.com/RabiaHussain1498/my-portfolio"
+        link="https://github.com/RabiaHussain1498/Porfolio"
       />
     </section>
   );
