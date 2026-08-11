@@ -5,18 +5,17 @@ function Home() {
       <section id="home">
         
         <h2>Rabia Hussain</h2>
-        <p>AI Intern @ Arhamsoft| Machine Learning & Computer Vision | Multimodal Physiological Signal Analysis </p>
+        <p>PhD candidate in AI | Machine Learning & Computer Vision | AI Intern @ Arhamsoft</p>
       </section>
 
       <section id="about">
         <h2>About</h2>
         <p>
-          I’m currently working as an AI Intern at ArhamSoft, where I’m developing practical experience in building and implementing real-world software solutions. 
-          My work involves AI, Machine Learning, and Computer Vision, while also strengthening my skills in technologies such as PostgreSQL, React
-          and full-stack development. Alongside my internship, 
-          I’m pursuing a PhD in Artificial Intelligence, with a focus on applying AI to practical problems.
-          My research include multimodal sensor-based stress classification using the WESAD dataset, as well as developing modern, AI-driven applications and interfaces.
-
+          I'm a PhD candidate in AI with an MPhil in AI, currently working as an
+          AI Intern at Arhamsoft. My work spans machine learning and computer
+          vision, including multimodal sensor-based stress classification using
+          the WESAD dataset. I'm also expanding into full-stack development,
+          building interfaces like this portfolio with React.
         </p>
       </section>
 
